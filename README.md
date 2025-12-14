@@ -24,7 +24,7 @@ The study examines whether government spending on environmental protection reduc
 
 \- Disaster data (EM-DAT)
 
-## Data Availability
+\## Data Availability
 
 Due to data licensing restrictions and GitHub file size limits, raw and high-frequency CDS data (Refinitiv) and raw EM-DAT files are not included in this repository. The final regression-ready dataset used in all empirical analyses is provided to ensure reproducibility of results.
 
@@ -60,4 +60,5 @@ Due to data licensing restrictions and GitHub file size limits, raw and high-fre
 \## Author
 
 Dipak Raj Paneru \& Natthatika Prabpai
+
 
